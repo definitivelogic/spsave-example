@@ -1,0 +1,24 @@
+{
+  "name": "spsave-example",
+  "version": "1.0.0",
+  "description": "Example of gulp-spsave",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-spsave": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/definitivelogic/spsave-example.git"
+  },
+  "author": "Definitive Logic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/definitivelogic/spsave-example/issues"
+  },
+  "homepage": "https://github.com/definitivelogic/spsave-example#readme"
+}
